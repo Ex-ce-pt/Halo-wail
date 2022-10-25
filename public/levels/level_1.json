@@ -1,0 +1,162 @@
+{
+    "title": "Megalovania",
+    "music": "Megalovania.mp3",
+    "length": 32,
+    
+    "attacks": [
+        {
+            "pos": 10,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 1,
+            "duration": 1
+        },
+        {
+            "pos": 70,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 3,
+            "duration": 1
+        },
+
+        {
+            "pos": 10,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 5,
+            "duration": 1
+        },
+        {
+            "pos": 80,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 5,
+            "duration": 1
+        },
+
+        {
+            "pos": 10,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 7,
+            "duration": 1
+        },
+        {
+            "pos": 70,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 7,
+            "duration": 1
+        },
+
+        {
+            "pos": 10,
+            "direction": "vertical",
+            "thickness": 125,
+            "time": 9.5,
+            "duration": 1
+        },
+        {
+            "pos": 45,
+            "direction": "vertical",
+            "thickness": 125,
+            "time": 10,
+            "duration": 1
+        },
+        {
+            "pos": 80,
+            "direction": "vertical",
+            "thickness": 125,
+            "time": 10.5,
+            "duration": 1
+        },
+
+        {
+            "pos": 10,
+            "direction": "horizontal",
+            "thickness": 125,
+            "time": 13,
+            "duration": 1
+        },
+        {
+            "pos": 45,
+            "direction": "horizontal",
+            "thickness": 125,
+            "time": 13.5,
+            "duration": 1
+        },
+        {
+            "pos": 80,
+            "direction": "horizontal",
+            "thickness": 125,
+            "time": 14,
+            "duration": 1
+        },
+
+        {
+            "pos": 45,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 17,
+            "duration": 1
+        },
+        {
+            "pos": 40,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 17,
+            "duration": 1
+        },
+
+        {
+            "pos": 20,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 19,
+            "duration": 1
+        },
+        {
+            "pos": 70,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 19,
+            "duration": 1
+        },
+        {
+            "pos": 40,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 19,
+            "duration": 1
+        },
+
+        {
+            "pos": 5,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 21,
+            "duration": 1
+        },
+        {
+            "pos": 85,
+            "direction": "horizontal",
+            "thickness": 150,
+            "time": 21,
+            "duration": 1
+        },
+        {
+            "pos": 15,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 21,
+            "duration": 1
+        },
+        {
+            "pos": 85,
+            "direction": "vertical",
+            "thickness": 150,
+            "time": 21,
+            "duration": 1
+        }
+    ]
+}

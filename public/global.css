@@ -1,0 +1,32 @@
+* {
+	--text-color: aliceblue;
+
+	color: aliceblue;
+}
+
+html,
+body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	margin: 0;
+	background-color: #333;
+}
+
+button.menu-button {
+    font-family: 'Fuzzy Bubbles';
+    font-size: 36px;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 1em;
+    transition: background-color 0.3s, transform 0.3s cubic-bezier(0, 0.60, 0.15, 1);
+}
+
+button.menu-button:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    transform: scale(125%, 125%);
+}
