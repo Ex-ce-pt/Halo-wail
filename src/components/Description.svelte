@@ -27,6 +27,7 @@
             <h3>Technical side</h3>
             <ul>
                 <li>Made with Svelte and Typescript. Open <code>public/index.html</code> to play.</li>
+                <li>You most likely know how to serve the app if you're reading this.</li>
             </ul>
         </section>
     </div>

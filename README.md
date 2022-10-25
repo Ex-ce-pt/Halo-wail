@@ -14,6 +14,7 @@ Have fun!
 
 ## Technical side
 
-• Made with Svelte and Typescript. Open `public/index.html` to play.
+• Made with Svelte and Typescript.
+• To play: open the directory, install the dependencies, build the app with `npm run build`, ***serve*** the app in `public` directory.
 
 Made for Conaticus Haloween Event (1).
